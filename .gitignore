@@ -1,0 +1,8 @@
+.DS_Store
+*.dmg
+*.zip
+*.app
+.env
+*key*
+*.p12
+*.pem
